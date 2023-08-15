@@ -10,6 +10,3 @@ This repository contains code for the Internet Engineering course projects in th
 <br>__CA6__: MySQL Database, JDBC
 <br>__CA7__: Authentication, Authorization(JWT), SQL Injection
 <br>__CA8__: Docker, Nginx
-
-
-<img width="282" alt="image" src="https://github.com/mahsa-hemmat/Internet-Engineering-Course-Projects/assets/92688832/b723a7ee-8bc2-4238-876c-a7b34e876a5f">
