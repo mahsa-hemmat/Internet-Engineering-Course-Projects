@@ -1,0 +1,9 @@
+[submodule "CA3"]
+	path = CA3
+	url = https://github.com/mahsa-hemmat/IE_CA3.git
+[submodule "CA6"]
+	path = CA6
+	url = https://github.com/mahsa-hemmat/IE_CA6.git
+[submodule "CA8"]
+	path = CA8
+	url = https://github.com/mahsa-hemmat/IE_CA8.git
