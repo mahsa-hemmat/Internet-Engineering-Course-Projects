@@ -7,3 +7,15 @@
 [submodule "CA8"]
 	path = CA8
 	url = https://github.com/mahsa-hemmat/IE_CA8.git
+[submodule "CA1-2"]
+	path = CA1-2
+	url = https://github.com/kymmt80/Baloot.git
+[submodule "CA4"]
+	path = CA4
+	url = https://github.com/kymmt80/BalootFront.git
+[submodule "CA5"]
+	path = CA5
+	url = https://github.com/mahsa-hemmat/IE_CA5.git
+[submodule "CA7"]
+	path = CA7
+	url = https://github.com/mahsa-hemmat/IE_CA7.git
