@@ -1,4 +1,4 @@
-# Internet-Engineering-Course-Projects
+# Internet Engineering Course Projects : Designing an Online Shopping System
 This repository contains code for the Internet Engineering course projects in the Spring of 2023. 
 <br>The project's core objective was to create an online shopping system. This system enables users to register, purchase items, provide ratings and comments on commodities. Furthermore, the platform offers personalized recommendations to users. 
 <br>The backend was developed primarily using Spring framework in Java, while React was used for the user-friendly frontend. <br>Below, you'll find a brief description of each project phase:
